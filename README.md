@@ -1,1 +1,2 @@
 # nashaat
+int main
