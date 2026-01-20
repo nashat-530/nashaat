@@ -1,2 +1,5 @@
 # nashaat
 int main
+{
+cout
+{
